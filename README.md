@@ -1,6 +1,7 @@
-# ReactRdp
-# Created by Samyuktha S 
-# React Application
+#Bank Management System - React
+ReactRdp
+Created by Samyuktha S 
+React Application
 
 URLs:
 Login Page: http://localhost:3001/
