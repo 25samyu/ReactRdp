@@ -1,5 +1,6 @@
-#Bank-Management-System
-React RDP
+#ReactRdp
+
+Bank Management System
 Created by Samyuktha S 
 React Application
 
